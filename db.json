@@ -9,7 +9,7 @@
         "Set in Toronto, Ontario, in 2002, Turning Red follows Meilin Lee, a 13-year-old Chinese-Canadian student who, due to a hereditary curse, transforms into a giant red panda when she expresses any strong emotion. "
       ],
       "quote": "Don't Hold Back. For Anyone. The Farther You Go, The Prouder I'll Be.",
-      "image": "require('../assets/image1.jpeg')",
+      "image": "../assets/image1.jpeg",
       "seatsAvailable": 80,
       "haveWatched": true
     },
@@ -21,7 +21,7 @@
         "The film centers on a music teacher Joe Gardner (Foxx) seeking to reunite his soul and his body after they are separated, just before his big break as a jazz musician."
       ],
       "quote": "Life Is Full Of Possibilities. You Just Need To Know Where To Look.",
-      "image": "require('../assets/image2.jpeg')",
+      "image": "../assets/image2.jpeg",
       "seatsAvailable": 80,
       "haveWatched": false
     },
@@ -33,7 +33,7 @@
         "Dune (titled onscreen as Dune: Part One) is a 2021 American epic science fiction film directed by Denis Villeneuve from a screenplay by Villeneuve, Jon Spaihts, and Eric Roth. It is the first of a two-part adaptation of the 1965 novel by Frank Herbert, primarily covering the first half of the book. Set in the far future, the film follows Paul Atreides as his family, the noble House Atreides, is thrust into a war for the deadly and inhospitable desert planet Arrakis. "
       ],
       "quote": "You've Proven You Can Rule Yourself. Now You Must Learn To Rule Others, Something None Of Your Ancestors Learnt.",
-      "image": "require('../assets/image3.jpeg')",
+      "image": "../assets/image3.jpeg",
       "seatsAvailable": 80,
       "haveWatched": true
     },
@@ -46,7 +46,7 @@
         "Set in Montana, shot mostly within rural Otago, New Zealand, the film is an international co-production among New Zealand, Greece, the United Kingdom, the United States, and Australia. The Power of the Dog covers themes such as love, grief, resentment, jealousy, masculinity, and sexuality."
       ],
       "quote": "Deliver my soul from the sword; my darling from the power of the dog.",
-      "image": "require('../assets/image4.jpeg')",
+      "image": "../assets/image4.jpeg",
       "seatsAvailable": 80,
       "haveWatched": false
     },
@@ -58,7 +58,7 @@
         "Interstellar is a 2014 epic science fiction film co-written, directed and produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, Matt Damon, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind."
       ],
       "quote": "Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light.",
-      "image": "require('../assets/image5.jpeg')",
+      "image": "../assets/image5.jpeg",
       "seatsAvailable": 80,
       "haveWatched": false
     }
